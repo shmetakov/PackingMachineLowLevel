@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=packMach.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\packMach -TC:\CooCox\CoIDE\configuration\ProgramData\packMach/arm-gcc-link.ld -g">
+      <target file="packMach.elf" lastModified="15ffd4dc872">
+         <source file="..\obj\serviceProtocol.o" lastModified="15ffd4dbfe2"/>
+         <source file="..\obj\TestFile.o" lastModified="15ffd4dc02b"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="15ffd4dc091"/>
+         <source file="..\obj\led.o" lastModified="15ffd4dc0d9"/>
+         <source file="..\obj\prtlcTempCon.o" lastModified="15ffd4dc128"/>
+         <source file="..\obj\magnet.o" lastModified="15ffd4dc17c"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="15ffd4dc1ad"/>
+         <source file="..\obj\stm32f4xx_iwdg.o" lastModified="15ffd4dc1ee"/>
+         <source file="..\obj\service_COM_port.o" lastModified="15ffd4dc246"/>
+         <source file="..\obj\mainCntrPrgm.o" lastModified="15ffd4dc2a3"/>
+         <source file="..\obj\main.o" lastModified="15ffd4dc312"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="15ffd4dc386"/>
+         <source file="..\obj\sensor.o" lastModified="15ffd4dc3dd"/>
+         <source file="..\obj\protocol_For_Main_Motor.o" lastModified="15ffd4dc436"/>
+         <source file="..\obj\stepMotors.o" lastModified="15ffd4dc49e"/>
+         <source file="..\obj\USART_temp_com.o" lastModified="15ffd4dc4f7"/>
+         <source file="..\obj\USART_For_Main_Motor.o" lastModified="15ffd4dc54e"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="15ffd4dc59e"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="15ffd4dc5e3"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="15ffd4dc63a"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="15ffd4dc6a2"/>
+      </target>
+   </processor>
+</history>

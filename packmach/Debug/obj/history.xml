@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\ashmetakov\YandexDisk\work\packmach -I..\..\..\..\..\Users\ashmetakov\YandexDisk\work -I..\..\..\..\..\Users\ashmetakov\YandexDisk\work\packmach\cmsis_boot -I..\..\..\..\..\Users\ashmetakov\YandexDisk -I..\..\..\..\..\Users\ashmetakov\YandexDisk\work\packmach\cmsis_lib\include -I..\..\..\..\..\Users\ashmetakov\YandexDisk\work\packmach\cmsis_lib -I..\..\..\..\..\Users\ashmetakov\YandexDisk\work\packmach\cmsis">
+      <target file="stm32f4xx_gpio.o" lastModified="15ffd036623">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15627b979d0"/>
+      </target>
+      <target file="USART_For_Main_Motor.o" lastModified="15ffd0365cb">
+         <source file="..\..\..\USART_For_Main_Motor.c" lastModified="15fb4c307fb"/>
+      </target>
+      <target file="serviceProtocol.o" lastModified="15ffd035f70">
+         <source file="..\..\..\serviceProtocol.c" lastModified="15ffd035cb3"/>
+      </target>
+      <target file="prtlcTempCon.o" lastModified="15ffd0360f0">
+         <source file="..\..\..\prtlcTempCon.c" lastModified="15f975fe6e2"/>
+      </target>
+      <target file="sensor.o" lastModified="15ffd036437">
+         <source file="..\..\..\sensor.c" lastModified="15f97d84732"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="15ffd036198">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15627b96260"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="15ffd036670">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15a653ffd67"/>
+      </target>
+      <target file="led.o" lastModified="15ffd03608c">
+         <source file="..\..\..\led.c" lastModified="15f7d55ab61"/>
+      </target>
+      <target file="service_COM_port.o" lastModified="15ffd036253">
+         <source file="..\..\..\service_COM_port.c" lastModified="15fb4c3096e"/>
+      </target>
+      <target file="TestFile.o" lastModified="15ffd035fcd">
+         <source file="..\..\..\TestFile.c" lastModified="15a66192981"/>
+      </target>
+      <target file="stm32f4xx_dma.o" lastModified="15ffd0366d1">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_dma.c" lastModified="15b48342df8"/>
+      </target>
+      <target file="mainCntrPrgm.o" lastModified="15ffd0362c7">
+         <source file="..\..\..\mainCntrPrgm.c" lastModified="15fb4c309c5"/>
+      </target>
+      <target file="stm32f4xx_iwdg.o" lastModified="15ffd0361ea">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_iwdg.c" lastModified="15ffcebbb97"/>
+      </target>
+      <target file="stepMotors.o" lastModified="15ffd036511">
+         <source file="..\..\..\stepMotors.c" lastModified="15f7d55b667"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="15ffd0363d3">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15627b96a30"/>
+      </target>
+      <target file="magnet.o" lastModified="15ffd036158">
+         <source file="..\..\..\magnet.c" lastModified="15f7d557a41"/>
+      </target>
+      <target file="stm32f4xx_i2c.o" lastModified="15ffd036740">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="15b97076344"/>
+      </target>
+      <target file="protocol_For_Main_Motor.o" lastModified="15ffd03649c">
+         <source file="..\..\..\protocol_For_Main_Motor.c" lastModified="15f7d5580d9"/>
+      </target>
+      <target file="USART_temp_com.o" lastModified="15ffd03656c">
+         <source file="..\..\..\USART_temp_com.c" lastModified="15f7d557dc7"/>
+      </target>
+      <target file="main.o" lastModified="15ffd03635f">
+         <source file="..\..\..\main.c" lastModified="15ffd035c97"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="15ffd036038">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="1562bf6bdf0"/>
+      </target>
+   </processor>
+</history>
